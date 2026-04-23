@@ -2,7 +2,7 @@
 
 Your on-call rotation shouldn't need to page a human at 3am to figure out why the auth service is down.
 
----
+![PerionOps](assets/perry.avif)
 
 ## The Problem
 
