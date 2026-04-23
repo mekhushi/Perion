@@ -22,7 +22,7 @@ This loop is expensive, slow, and burns people out.
 
 ## What Perion Does
 
-Perion is an intelligent engineering ops engine. When an incident hits your system — a crashed service, a failed auth check, a database timeout — Perion intercepts it, runs it through an AI diagnostic layer powered by Google Gemini, and immediately produces a structured analysis:
+Perion is an intelligent engineering ops engine. When an incident hits your system  a crashed service, a failed auth check, a database timeout — Perion intercepts it, runs it through an AI diagnostic layer powered by Google Gemini, and immediately produces a structured analysis:
 
 - **What happened** (in plain English, not stack trace soup)
 - **Why it likely happened** (root cause hypothesis)
